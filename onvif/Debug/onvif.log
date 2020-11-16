@@ -1,0 +1,9 @@
+﻿  duration.c
+  main.c
+  onvif_dump.c
+  soapC.c
+  soapClient.c
+  stdsoap2.c
+  wsaapi.c
+  正在生成代码...
+  onvif.vcxproj -> D:\onvif\onvif\onvif\Debug\onvif.exe
